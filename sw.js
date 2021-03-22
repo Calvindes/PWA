@@ -8,14 +8,14 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 const APP_SHELL = [
     //'/',
     'index.html',
-    '/css/style.css',
-    '/img/favicon.ico',
-    '/img/avatars/spiderman.jpg',
-    '/img/avatars/ironman.jpg',
-    '/img/avatars/thor.jpg',
-    '/img/avatars/hulk.jpg',
-    '/img/avatars/wolverine.jpg',
-    '/js/app.js'
+    'css/style.css',
+    'img/favicon.ico',
+    'img/avatars/spiderman.jpg',
+    'img/avatars/ironman.jpg',
+    'img/avatars/thor.jpg',
+    'img/avatars/hulk.jpg',
+    'img/avatars/wolverine.jpg',
+    'js/app.js'
 ];
 
 const APP_SHELL_INMUTABLE = [
